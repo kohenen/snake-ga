@@ -7,3 +7,4 @@ pygame==1.9.3
 pandas==0.25.1
 GPyOpt==1.2.6
 numpy==1.19.4
+This file doesn't list all the requirments.
